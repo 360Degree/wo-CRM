@@ -44,7 +44,7 @@ export class HomePage {
   }
 
   ionViewDidLoad(){
-    const browser = this.iab.create('http://argus.workiy.org','_self',{location:'no'}); 
+    this.iab.create('http://argus.workiy.org','_self',{location:'no'}); 
   }
 
   
