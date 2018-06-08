@@ -11,6 +11,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <allow-navigation href="*" />
     <preference name="ScrollEnabled" value="false" />
     <preference name="android-minSdkVersion" value="19" />
     <preference name="BackupWebStorage" value="none" />
@@ -86,4 +87,5 @@
     <plugin name="cordova-plugin-network-information" spec="^2.0.1" />
     <engine name="android" spec="6.4.0" />
     <engine name="ios" spec="4.5.3" />
+    <engine name="windows" spec="^5.0.0" />
 </widget>
