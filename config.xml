@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.ionic.starter" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>workiy-CRM</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="com.workiy.org" android-versionCode="100" ios-versionCode="1.0" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Workiy</name>
+    <description>Workiy CRM mobile Application</description>
+    <author email="argus@argusqatar.com" href="http://www.workiy.com/">Workiy</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
