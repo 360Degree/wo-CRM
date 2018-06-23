@@ -44,7 +44,7 @@ export class HomePage {
   }
 
   ionViewDidLoad(){
-    this.iab.create('http://demo.workiy.org','_self',{location:'no'}); 
+    this.iab.create('http://demo.workiy.com/','_self',{location:'no'});
   }
 
   
